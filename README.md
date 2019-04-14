@@ -1,5 +1,7 @@
 # Routes From Library
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/f8a44693d786420891f7491e61850116)](https://app.codacy.com/app/netodeolino/routes-from-library?utm_source=github.com&utm_medium=referral&utm_content=netodeolino/routes-from-library&utm_campaign=Badge_Grade_Dashboard)
+
 ![alt](https://img.shields.io/github/issues/netodeolino/routes-from-library.svg)
 ![alt](https://img.shields.io/github/forks/netodeolino/routes-from-library.svg)
 ![alt](https://img.shields.io/github/stars/netodeolino/routes-from-library.svg)
