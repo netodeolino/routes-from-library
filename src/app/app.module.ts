@@ -3,7 +3,6 @@ import { NgModule } from '@angular/core';
 
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
-import { LoginModule } from '../../dist/login';
 
 @NgModule({
   declarations: [
@@ -12,7 +11,6 @@ import { LoginModule } from '../../dist/login';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    LoginModule // Import module of the login library
   ],
   bootstrap: [AppComponent]
 })
