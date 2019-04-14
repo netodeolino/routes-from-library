@@ -1,0 +1,21 @@
+{
+  "name": "login",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^7.2.0",
+    "@angular/core": "^7.2.0"
+  },
+  "main": "bundles/login.umd.js",
+  "module": "fesm5/login.js",
+  "es2015": "fesm2015/login.js",
+  "esm5": "esm5/login.js",
+  "esm2015": "esm2015/login.js",
+  "fesm5": "fesm5/login.js",
+  "fesm2015": "fesm2015/login.js",
+  "typings": "login.d.ts",
+  "metadata": "login.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^1.9.0"
+  }
+}
